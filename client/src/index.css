@@ -1,0 +1,15 @@
+body {
+  /* background-color: #ffffff; */
+  background-image: url("https://www.localguidesconnect.com/t5/image/serverpage/image-id/82167i9A8C2AC25DCA7EE2/image-size/large?v=v2&px=999");
+  background-attachment: fixed;
+  background-size: cover;
+  overflow: hidden;
+}
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent;
+}
